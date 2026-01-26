@@ -1,21 +1,97 @@
-# 💫 About Me:
-🔭 I’m currently working on: AI-powered automation, IR systems with vector databases, and AI × Web integrated projects<br>👯 I’m looking to collaborate on: AI/ML projects, intelligent web apps, open-source tools, and hackathon-ready ideas<br>🤝 I’m looking for help with: LLM fine-tuning, scalable system design, and backend architecture optimization<br>🌱 I’m currently learning: Rust, advanced Python for AI pipelines, Whisper-based speech systems, and clean architecture<br>💬 Ask me about: Frontend development, Python automation, IR systems, vector databases, and DSA approaches<br>⚡ Fun fact: I love building systems that look simple on the surface but run deep logic underneath
+# Hi, I'm Joy Patel 👋
 
+I build **AI-powered systems** that combine clean user interfaces with deep backend intelligence.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joypatel_3618) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/2005-joy-patel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joypatel3618@gmail.com) 
+Currently focused on designing **automation pipelines**, **information retrieval systems**, and **AI × Web integrated applications** that are scalable, modular, and production-oriented.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JoyPatel3618&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=JoyPatel3618&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoyPatel3618&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+---
+
+## 🚀 What I’m Working On
+
+- AI-powered automation systems using Python  
+- Information Retrieval (IR) systems with vector databases  
+- Intelligent web applications integrating LLMs  
+- Long-term personal projects focused on AI × Web architecture  
+
+---
+
+## 🤝 Open to Collaborate On
+
+- AI/ML-based projects  
+- Developer productivity tools  
+- Hackathon-ready problem-solving ideas  
+- Open-source systems involving automation or data pipelines  
+
+---
+
+## 🧠 Currently Learning
+
+- Advanced Python for AI pipelines  
+- Whisper-based speech-to-text systems  
+- Clean architecture & scalable backend design  
+
+---
+
+## 💬 Ask Me About
+
+- Frontend development  
+- Python automation  
+- Information Retrieval systems  
+- Vector databases  
+- DSA problem-solving approaches  
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building systems that look simple on the surface  
+but run deep logic underneath.
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/2005-joy-patel)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/joypatel_3618)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:joypatel3618@gmail.com)
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**  
+Python · JavaScript · C++ · Java  
+
+**Backend & APIs**  
+FastAPI · Flask · Django · Node.js  
+
+**AI / Data**  
+PyTorch · TensorFlow · Scikit-learn · NumPy · Pandas · OpenCV  
+
+**Databases**  
+MongoDB · MySQL · Vector Databases  
+
+**Frontend**  
+HTML · CSS · Tailwind · Three.js  
+
+**Tools**  
+Git · GitHub · Postman · Power BI · Figma · Canva  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoyPatel3618&show_icons=true&theme=blue-green&hide_border=false)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=JoyPatel3618&theme=blue-green&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoyPatel3618&layout=compact&theme=blue-green&hide_border=false)
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JoyPatel3618&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Profile Views](https://visitcount.itsvg.in/api?id=JoyPatel3618&icon=0&color=1)
