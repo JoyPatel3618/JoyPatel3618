@@ -1,97 +1,72 @@
-# Hi, I'm Joy Patel 👋
+<h1 align="center">Joy Patel</h1>
+<p align="center">
+AI • Automation • IR Systems • AI × Web
+</p>
 
-I build **AI-powered systems** that combine clean user interfaces with deep backend intelligence.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java,nodejs,fastapi,django,mongodb,mysql,git,github,tailwind,threejs,figma&theme=dark" />
+</p>
 
-Currently focused on designing **automation pipelines**, **information retrieval systems**, and **AI × Web integrated applications** that are scalable, modular, and production-oriented.
+<p align="center">
+  <a href="https://linkedin.com/in/2005-joy-patel">
+    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  <a href="https://instagram.com/joypatel_3618">
+    <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+  </a>
+  <a href="mailto:joypatel3618@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=D14836"/>
+  </a>
+</p>
+
+
+>
 
 ---
 
-## 🚀 What I’m Working On
+## 🧠 About
 
-- AI-powered automation systems using Python  
-- Information Retrieval (IR) systems with vector databases  
-- Intelligent web applications integrating LLMs  
-- Long-term personal projects focused on AI × Web architecture  
+I build **intelligent software systems** focused on automation, information retrieval, and AI-powered web platforms.
 
----
-
-## 🤝 Open to Collaborate On
-
-- AI/ML-based projects  
-- Developer productivity tools  
-- Hackathon-ready problem-solving ideas  
-- Open-source systems involving automation or data pipelines  
+My interest lies in designing **clean pipelines**, **scalable backend systems**, and **interfaces backed by meaningful logic** rather than surface-level demos.
 
 ---
 
-## 🧠 Currently Learning
+## 🔍 Focus Areas
 
+- AI-powered automation pipelines  
+- Information Retrieval systems with vector databases  
+- LLM-integrated web applications  
+- Backend architecture and clean system design  
+
+---
+
+## 🛠 What I Build
+
+- Automation tools for developer productivity  
+- Semantic search engines over structured and unstructured data  
+- AI-assisted platforms with modular pipelines  
+- Web interfaces driven by intelligent backend services  
+
+---
+
+## 🌱 Currently Learning
+
+- Rust (systems-level fundamentals)  
 - Advanced Python for AI pipelines  
-- Whisper-based speech-to-text systems  
-- Clean architecture & scalable backend design  
+- Whisper-based speech systems  
+- Backend performance optimization  
 
 ---
 
-## 💬 Ask Me About
+## 📌 Projects
 
-- Frontend development  
-- Python automation  
-- Information Retrieval systems  
-- Vector databases  
-- DSA problem-solving approaches  
+Pinned repositories below reflect my strongest work and long-term learning focus.
+
+Each project emphasizes **architecture**, **clarity**, and **real-world design thinking**.
 
 ---
 
-## ⚡ Fun Fact
-
-I enjoy building systems that look simple on the surface  
-but run deep logic underneath.
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/2005-joy-patel)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/joypatel_3618)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:joypatel3618@gmail.com)
-
----
-
-## 🛠 Tech Stack
-
-**Languages**  
-Python · JavaScript · C++ · Java  
-
-**Backend & APIs**  
-FastAPI · Flask · Django · Node.js  
-
-**AI / Data**  
-PyTorch · TensorFlow · Scikit-learn · NumPy · Pandas · OpenCV  
-
-**Databases**  
-MongoDB · MySQL · Vector Databases  
-
-**Frontend**  
-HTML · CSS · Tailwind · Three.js  
-
-**Tools**  
-Git · GitHub · Postman · Power BI · Figma · Canva  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoyPatel3618&show_icons=true&theme=blue-green&hide_border=false)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=JoyPatel3618&theme=blue-green&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoyPatel3618&layout=compact&theme=blue-green&hide_border=false)
-
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
-![Profile Views](https://visitcount.itsvg.in/api?id=JoyPatel3618&icon=0&color=1)
+<p align="center">
+  <sub>Focused on building systems — not chasing metrics.</sub>
+</p>
