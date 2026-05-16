@@ -23,7 +23,7 @@ AI Systems • Retrieval • Backend Engineering
 >
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YzlveTh5aDkwOHlqMWZ5OHVuMmMzcmkyanNpaGd2MWJoN2Y2N3ByMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZCZ7FHlu3sPek3h0zP/giphy.gif" width="850" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2NneW90anJ2cmhwOWM1cjNiN2drdmtsNXc0MHl1MmpnNmU4MWt3MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9B7XwCQZRQfQs/giphy.gif" width="850" />
 </p>
 
 ---
