@@ -1,6 +1,6 @@
 <h1 align="center">Joy Patel</h1>
 <p align="center">
-AI • Automation • IR Systems • AI × Web
+AI Systems • Retrieval • Backend Engineering
 </p>
 
 <p align="center">
@@ -21,6 +21,10 @@ AI • Automation • IR Systems • AI × Web
 
 
 >
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YzlveTh5aDkwOHlqMWZ5OHVuMmMzcmkyanNpaGd2MWJoN2Y2N3ByMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZCZ7FHlu3sPek3h0zP/giphy.gif" width="850" />
+</p>
 
 ---
 
@@ -59,11 +63,49 @@ My interest lies in designing **clean pipelines**, **scalable backend systems**,
 
 ---
 
-## 📌 Projects
+## 🚀 Featured Repositories
 
-Pinned repositories below reflect my strongest work and long-term learning focus.
+<table>
+<tr>
+<td width="50%">
 
-Each project emphasizes **architecture**, **clarity**, and **real-world design thinking**.
+### ResumeMate
+AI-powered resume analysis platform with intelligent evaluation workflows, modern UI, and backend-driven processing.
+
+**Tech:** FastAPI • Python • AI APIs • Tailwind
+
+</td>
+
+<td width="50%">
+
+### RAG Document Assistant
+Semantic document retrieval system capable of answering questions from uploaded PDFs using vector search pipelines.
+
+**Tech:** Python • Vector DB • RAG • Embeddings
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### DeliverSure
+Hackathon project focused on intelligent delivery verification and workflow management with scalable backend logic.
+
+**Tech:** Node.js • MongoDB • Express • React
+
+</td>
+
+<td width="50%">
+
+### DREAM ARENA
+Long-term interactive project combining immersive frontend experiences with intelligent system design concepts.
+
+**Focus:** 3D Interfaces • System Design • Creative Engineering
+
+</td>
+</tr>
+</table>
 
 ---
 
